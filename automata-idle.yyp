@@ -2,12 +2,15 @@
   "resources": [
     {"id":{"name":"tst_forest_tileset","path":"tilesets/tst_forest_tileset/tst_forest_tileset.yy",},"order":0,},
     {"id":{"name":"spr_unknown_monster","path":"sprites/spr_unknown_monster/spr_unknown_monster.yy",},"order":1,},
+    {"id":{"name":"obj_menu_new_option","path":"objects/obj_menu_new_option/obj_menu_new_option.yy",},"order":1,},
     {"id":{"name":"room_overword","path":"rooms/room_overword/room_overword.yy",},"order":1,},
     {"id":{"name":"room_team","path":"rooms/room_team/room_team.yy",},"order":4,},
     {"id":{"name":"spr_forest_tileset","path":"sprites/spr_forest_tileset/spr_forest_tileset.yy",},"order":0,},
+    {"id":{"name":"obj_menu_option","path":"objects/obj_menu_option/obj_menu_option.yy",},"order":0,},
     {"id":{"name":"font_menu_font","path":"fonts/font_menu_font/font_menu_font.yy",},"order":0,},
     {"id":{"name":"room_collection","path":"rooms/room_collection/room_collection.yy",},"order":3,},
     {"id":{"name":"room_bag","path":"rooms/room_bag/room_bag.yy",},"order":2,},
+    {"id":{"name":"obj_menu_quit_option","path":"objects/obj_menu_quit_option/obj_menu_quit_option.yy",},"order":2,},
     {"id":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},"order":0,},
   ],
   "Options": [
